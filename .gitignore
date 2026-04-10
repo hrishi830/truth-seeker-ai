@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models (large files)
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Media files
+*.mp4
+*.wav
+*.avi
+
+# Dataset
+dataset/
+data/
+
+# System files
+.DS_Store
+Thumbs.db
